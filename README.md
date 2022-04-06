@@ -35,3 +35,8 @@ Fig. 1 Schematic showing a typical example of how a manifold learning algorithm 
 <img width="952" alt="image" src="https://user-images.githubusercontent.com/38789733/161800388-4ba698c7-a2c1-43b9-a524-e653ff5014b2.png">
 
 *Due to data permissions, individual datasets will not be provded in this repository.  To get access to any data, please reach out to the the corresponding author.  To illustrate how each algorithm can be applied to a dataset we have used the first dataset.
+
+#### Getting started:
+1. Install the NML repository
+2. Open the jupyter notebook: Neural_Manifold_Learning_CA1.ipynb
+3. Adapt code to your own data N x T (Neural traces/events/spikes over time) and a behavioural vector
