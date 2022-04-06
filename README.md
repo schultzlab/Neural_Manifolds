@@ -1,5 +1,5 @@
 # Neural_Manifolds
-A repository of neural manifold techniques described and compared in "Neural manifold analysis of brain circuit dynamics in health and disease"
+A repository of Neural Manifold Learning (NML) techniques described and compared in the review "Neural manifold analysis of brain circuit dynamics in health and disease"
 
 https://arxiv.org/abs/2203.11874
 
