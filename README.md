@@ -1,10 +1,9 @@
 # Neural_Manifolds
 A repository of Neural Manifold Learning (NML) techniques described and compared in the review "Neural manifold analysis of brain circuit dynamics in health and disease"
 
-https://arxiv.org/abs/2203.11874
+https://link.springer.com/article/10.1007/s10827-022-00839-3
 
-Mitchell-Heggs R,  Prado S,  Gava G et al (2022) Neural manifold analysis of brain circuit dynamics in health and disease. arXiv preprint
-arXiv:2203.11874
+Mitchell-Heggs, R., Prado, S., Gava, G.P., Go, M.A., Schultz, S.R., 2023. Neural manifold analysis of brain circuit dynamics in health and disease. J Comput Neurosci 51, 1–21. https://doi.org/10.1007/s10827-022-00839-3
 
 Recent developments in experimental neuroscience make it possible to simultaneously record the activity of thousands of neurons. However, the development of analysis approaches for such large-scale neural recordings have been slower than those applicable to single-cell experiments. One approach that has gained recent popularity is neural manifold learning. This approach takes advantage of the fact that often, even though neural datasets may be very high dimensional, the dynamics of neural activity tends to traverse a much lower-dimensional space. The topological structures formed by these low-dimensional neural subspaces are referred to as neural manifolds, and may potentially provide insight linking neural circuit dynamics with cognitive function and behavioural performance. In this paper we review a number of linear and non-linear approaches to neural manifold learning, by setting them within a common mathematical framework, and comparing their advantages and disadvantages with respect to their use for neural data analysis. We apply them to a number of datasets from published literature, comparing the manifolds that result from their application to hippocampal place cells, motor cortical neurons during a reaching task, and prefrontal cortical neurons during a multi-behaviour task. We find that in many circumstances linear algorithms produce similar results to non-linear methods, although in particular in cases where the behavioural complexity is greater, nonlinear methods tend to find lower dimensional manifolds, at the possible expense of interpretability. We demonstrate that these methods are applicable to the study of neurological disorders through simulation of a mouse model of Alzheimers Disease, and speculate that neural manifold analysis may help us to understand the circuit-level consequences of molecular and cellular neuropathology.
 
